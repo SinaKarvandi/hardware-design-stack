@@ -26,6 +26,7 @@ Are you interested in delving into the fascinating world of hardware design? Thi
 - Programming Xilinx FPGAs Using Vivado
 - Vivado Netlists
 - The Memory
+- Distributed RAMs in FPGAs
 - Block RAM (BRAM) in FPGAs
 - Static RAM (SRAM) in ASIC
 - Elaborating ASIC Designs
